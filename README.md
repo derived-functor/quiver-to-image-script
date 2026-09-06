@@ -9,7 +9,7 @@ Copy a diagram from quiver, run:
 ```
 $ uv run python -m quiver_to_image my-diagram
 
-Готово:
+Done:
   SVG: ~/quiver-diagrams/my-diagram.svg
   PNG: ~/quiver-diagrams/my-diagram.png
 ```
