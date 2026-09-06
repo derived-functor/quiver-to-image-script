@@ -75,4 +75,4 @@ Input (tikz-cd from quiver):
 
 Output:
 
-![example](assets/example.png)
+![example](assets/example1.png)
